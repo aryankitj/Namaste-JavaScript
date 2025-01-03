@@ -1,0 +1,12 @@
+Block Scope
+
+{
+    this is a block
+    it groups multiple statement and can be used where only single statement is allowed
+}
+
+Shadowing means reassigning the variable to a new value, which can be different from the original value.  (in let and var)
+The limitation is shadowing shouldnt cross the boundary of earlier variable
+
+
+var is function scoped, let and const are block scoped

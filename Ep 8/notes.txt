@@ -1,0 +1,10 @@
+Let & Const are also hoisted
+but...
+these are in temporal dead zone 
+temporal dead zone is time betwwen variable declared and assigned a value  
+
+var is decalred in global object while let and const are decalred in seperate object
+
+let variable can be reassigned and const can't.
+
+const can be only initialized and that is one time only.

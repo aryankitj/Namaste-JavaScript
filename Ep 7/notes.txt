@@ -1,0 +1,6 @@
+Scope in JS is directly realted tp lexical env
+It is basically where can you access a variable from.
+
+lexical env = local memory + lexical env of parent
+
+lexical env for global scope = global memory + null

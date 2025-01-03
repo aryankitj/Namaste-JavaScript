@@ -1,0 +1,6 @@
+Hoisting is a phenomena in JS where the variable and function can be accessed even before it has been initalised. 
+Recall the memory creation model of JS.
+
+Only applicable for function and var declarations. Not for let and const declarations.
+
+Arrow Function and var declaration gives undifined

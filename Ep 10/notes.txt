@@ -1,0 +1,13 @@
+Closure  = function with its lexical env (scope) bundeled together.
+
+when a function is return then not only the code is returned but also the enviroment of the function is returned. (i.e. Closure)
+
+Usage of Closure:
+    Module Design Pattern
+    Currying
+    Function like 'once'
+    memoize
+    maintaining state in async world
+    setTimeouts
+    Iterators
+    ..many more...

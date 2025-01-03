@@ -1,0 +1,13 @@
+Even when empty JS file is run , Global Execution Context is created and it is in the memory for a short time. This is known as **Global Object **. 
+
+This is the root of the object hierarchy. It is the object that contains all the global variables and functions.
+
+Window is the global object in a browser. It is created along with the GEC .
+
+For the JavaScript engine, google chrome has V8 engine.
+
+this points to the global object in the current execution context. It is a reference to the global object. It is not the global object itself.
+
+Global and Local Space
+Global Fuunctions and Variables are attached to the global object
+Local Functions and Variables are attached to the local object of the current execution context.

@@ -1,0 +1,9 @@
+Undefined And Not Defined
+
+Undefined means it stores the memory for variable for future uses (like a placeholder)
+
+undefined can also be assigned to a particualr variable
+
+== (loose equality) checks for equality after converting into same types
+
+=== (strict equality) checks for equality without converting into same types
